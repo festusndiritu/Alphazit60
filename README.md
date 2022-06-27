@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Alphazit60
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C, C++, Python, Javascript and php
+- 👋 Hi, I’m Festus Ndiritu 
+- 👀 I’m interested in javascript 
+- 🌱 I’m currently learning C, C++, Python, React
 - 📫 How to reach me, Email: Beckyneila4@gmail.com
 
 <!---
