@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Festus Ndiritu 
-- 👀 I’m interested in javascript 
-- 🌱 I’m currently learning C, C++, Python, React
+- 👀 I’m interested in vanilla JS, CSS3 and jQuery
+- 🌱 I’m currently learning C, C++ and Kivy python
 - 📫 How to reach me, Email: Beckyneila4@gmail.com
 
 <!---
