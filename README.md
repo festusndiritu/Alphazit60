@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)<br/><br/>My name is Festus Ndiritu
 ======================================================================================================================================
 
-Web developer and Python dev
+Android dev, Python, Web and UI design
 ----------------------------
 
-I have been learning programming for the last 4 years, learnt HTML, CSS, JavaScript and jQuery before starting on python3. I have been learning kivy and kivymd recently
+I have been learning programming, learnt HTML, CSS, JavaScript and jQuery before starting on python3. I have been making android apps using Jetpack Compose recently
 
-* 🌍  I'm based in Nairobi
+* 🌍  I'm based in Nairobi, Kenya
 * 🖥  See my portfolio at [Netlify](http://portfolio-festusndiritu.netlify.app)
 * ✉  You can contact me at [beckyneila4@gmail.com](mailto:beckyneila4@gmail.com)
 * 🧠  I'm learning android app development
-* 🤝  I'm open to collaborating on any python3 projects, android(Java), MySQL or javascript (Vanilla) projects
+* 🤝  I'm open to collaborating on any python3 projects, Android, MySQL or javascript (Vanilla) projects
 
 ### Skills
 
